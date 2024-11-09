@@ -34,7 +34,7 @@ const SignIn = () => {
               Welcome to Alzaf.com
             </h3>
             <Link
-              to="/"
+              to="/signUp"
               className="tex-3xl text-transparent font-semibold bg-gradient-to-tr from-violet-500 to-emerald-400 bg-clip-text"
             >
               Sign Up
